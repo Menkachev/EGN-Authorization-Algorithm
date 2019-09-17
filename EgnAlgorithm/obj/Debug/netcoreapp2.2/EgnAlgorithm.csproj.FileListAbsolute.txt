@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\bin\Debug\netcoreapp2.2\EgnAlgorithm.deps.json
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\bin\Debug\netcoreapp2.2\EgnAlgorithm.runtimeconfig.json
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\bin\Debug\netcoreapp2.2\EgnAlgorithm.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\bin\Debug\netcoreapp2.2\EgnAlgorithm.dll
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\bin\Debug\netcoreapp2.2\EgnAlgorithm.pdb
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\obj\Debug\netcoreapp2.2\EgnAlgorithm.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\obj\Debug\netcoreapp2.2\EgnAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\obj\Debug\netcoreapp2.2\EgnAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\obj\Debug\netcoreapp2.2\EgnAlgorithm.AssemblyInfo.cs
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\obj\Debug\netcoreapp2.2\EgnAlgorithm.dll
+C:\Users\Acer\source\repos\EgnAlgorithm\EgnAlgorithm\obj\Debug\netcoreapp2.2\EgnAlgorithm.pdb
